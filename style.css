@@ -1,0 +1,28 @@
+html,body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Caveat', cursive;
+}
+
+.button{
+  background-color:pink;
+  width:66px;
+  padding:20px;
+  margin:0 3px;
+  border:2px solid black;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+.row{
+  margin:8px 0;
+}
+.row input{
+  width:290px;
+  background-color:lightcyan;
+  margin:0;
+  font-size:20px;
+  padding:8px 0px;
+  border:2px solid black;
+  border-radius: 5px;  
+}
